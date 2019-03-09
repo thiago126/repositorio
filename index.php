@@ -1,6 +1,6 @@
 <?php
 
-    echo "Olá mundo 1";
-    echo "Olá terraquios";
-    
+    echo "Olá mundo";
+    echo "Olá planeta";
+
 ?>
